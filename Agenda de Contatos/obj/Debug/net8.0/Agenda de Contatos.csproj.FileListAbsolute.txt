@@ -1,0 +1,17 @@
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Agenda de Contatos.exe
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Agenda de Contatos.deps.json
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Agenda de Contatos.runtimeconfig.json
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Agenda de Contatos.dll
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Agenda de Contatos.pdb
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.AssemblyInfoInputs.cache
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.AssemblyInfo.cs
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.csproj.CoreCompileInputs.cache
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.dll
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\refint\Agenda de Contatos.dll
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.pdb
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.genruntimeconfig.cache
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\ref\Agenda de Contatos.dll
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.csproj.AssemblyReference.cache
+F:\Projetos c#\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda d.8F0F2415.Up2Date
